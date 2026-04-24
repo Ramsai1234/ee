@@ -1,4 +1,6 @@
 # end to end interview 
+MukeshRao.Jupally@cognizant.com
+Jupally@123
 https://github.com/yashprogrammer/ReAct_agent.git
 https://github.com/Kumaravel655/qube.git
 https://github.com/krishnaik06/Complete-RoadMap-To-Learn-AI.git
