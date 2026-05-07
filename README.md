@@ -1,6 +1,8 @@
 # end to end interview 
 MukeshRao.Jupally@cognizant.com
 Jupally@123
+
+https://apex.oracle.com/pls/apex/lonestar/r/files/static/v13Y/Think-And-Grow-Rich_2011-06.pdf
 https://github.com/yashprogrammer/ReAct_agent.git
 https://github.com/Kumaravel655/qube.git
 https://github.com/krishnaik06/Complete-RoadMap-To-Learn-AI.git
