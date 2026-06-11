@@ -1,6 +1,7 @@
 # end to end interview 
 MukeshRao.Jupally@cognizant.com
 Jupally@123
+https://www.google.com/search?q=how+to+win+friends+and+influence+people&oq=how+to+win+fri&gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyCggCEAAYsQMYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYOTIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABDIHCAoQLhiABDIHCAsQABiABDIHCAwQABiABDIHCA0QABiABDIHCA4QABiABNIBCDY1OTRqMGo3qAIUsAIB8QUQ3907rIbx_Q&client=ms-android-oneplus-rvo3&sourceid=chrome-mobile&ie=UTF-8
 
 https://github.com/Vivekreddy8360/Projectwork1
 
